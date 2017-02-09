@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+
+<html ng-app='myFirstApp'>
+<title>San Diego Top Spots</title>
+<head>
+  <link rel="stylesheet" href="index.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
+</head>
+<body ng-controller='myCtrl'>
+  <div class="container">
+  <h1 class="heading" style="color:red" align="center">San Diego Top Spots in AngularJS</h1>
+    <table class="table table-striped" style="width:100%">
+					<tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Link</th>
+          </tr>
+
+          <tr ng-repeat="item in items">
+            <td>{{item.name}}</td>
+            <td>{{item.description}}</td>
+            <td><a href="https://www.google.com/maps?q= {{item.location.join()}}" class="btn btn-primary active" role="button">Open in Google Maps</a>
+          </tr>
+     </table>
+   </div>
+     		<script src="index.js"></script>
+
+
+</body>
+</html>

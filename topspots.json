@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Go For A Run In The San Diego Zoo Safari Park",
+		"description": "A half marathon on a trail running through the Safari Park, where animals roam free? Sounds like a barrel of monkeys (or rhinos).",
+		"location": [33.0974787, -117.0045782]
+	},
+
+  {
+		"name": "Take A Beer Tour At Stone Brewery",
+		"description": "This special behind the scenes tour, lead by an “indoctrination specialist,” takes you behind the curtain of Stone’s diabolically tasty brews—most importantly it comes with free samples! Protip: tickets are first come, first serve and at $3 a pop for a 45-minute tour it’s a popular event, so be sure to get there early.",
+		"location": [32.7556728, -117.1995951]
+	},
+
+  {
+		"name": "Head To Convoy Street For Your Asian Food Fix",
+		"description": "San Diego has quite a large and diverse Asian population, which in San Diego translates to an excellent variety of Asian cuisine. Check out Shabu Shabu House on Convoy Street.",
+		"location": [32.825038, -117.2257581]
+	},
+
+  {
+		"name": "Treat Yourself To Extraordinary Desserts",
+		"description": "This dessert bar and restaurant in Banker’s Hill is a must for anyone with a major sweet tooth. The gourmet creations here—even the humble lemon bar—are unbeatable.",
+		"location": [32.7204103, -117.2359675]
+	},
+
+  {
+		"name": "Fashion Valley Mall Offers Luxury Brands To Shopping Lovers",
+		"description": "Go where the rich tourists do! Fashion Valley showcases plenty of upscale brands like Hermes, Gucci, and Armani. Even if you can’t afford the price tags, the people watching is priceless.",
+		"location": [32.7685818, -117.1724687]
+	},
+
+  {
+		"name": "Spend A Wednesday Afternoon At The OB Farmers Market",
+		"description": "Live music, open-air food venders, llama rides…what’s not to love? Get out of your supermarket rut and sample the local produce at the Ocean Beach Farmers Market.",
+		"location": [32.7458105, -117.2537134]
+	},
+
+  {
+		"name": "Got Kids? Legoland Is A Must",
+		"description": "This amusement park is best for kids 12 and under, and there’s plenty to do and see. The Lego models of American cities like San Francisco and New York are particularly interesting, not to mention their massive exhibit on “Star Wars.”",
+		"location": [33.1262585, -117.3163013]
+	},
+
+  {
+		"name": "Play Tourist For The Afternoon With A Stroll Around Seaport Village",
+		"description": "It may be a touristy spot with lots of tourist trap shops selling hats and sunglasses, but it’s definitely worth the walk to get great views of the harbor and Coronado, or just to enjoy the breeze.",
+		"location": [32.7090063, -117.2403923]
+	}
+]
